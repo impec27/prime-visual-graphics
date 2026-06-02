@@ -7,6 +7,14 @@ image is **evocative and metaphorical**: it stands in for a concept (distributed
 training, scaling, emergence, recursion, signal, measurement, infrastructure)
 rather than depicting it literally.
 
+**Fetching:** images are hosted publicly on GitHub. The **Image** column gives the path relative to the repo root; prepend the raw base URL to fetch any file directly:
+
+```
+https://raw.githubusercontent.com/impec27/prime-visual-graphics/main/
+```
+
+e.g. `hero/server_cathedral.jpg` → `https://raw.githubusercontent.com/impec27/prime-visual-graphics/main/hero/server_cathedral.jpg`
+
 **How to use this file (for the skill):**
 - Match a slide's *concept* to the **Concept tags** / **Description** columns, then use the path in the **Image** column.
 - **`hero/`** images are wide, full-bleed — use for title slides, section dividers, and full-screen statement slides.
