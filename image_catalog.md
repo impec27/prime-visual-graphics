@@ -27,7 +27,6 @@ e.g. `hero/server_cathedral.jpg` → `https://raw.githubusercontent.com/impec27/
 
 | Image | Concept tags | Description |
 |---|---|---|
-| `hero/server_cathedral.jpg` | infrastructure, compute, datacenter | Towering aisles of dark server racks recede into mist, with a vertical column of bright lights at the vanishing point. Monumental compute infrastructure / the "cathedral" scale of a training cluster. |
 | `hero/luminous_grid_1.jpg` | grid, foundation, scale | A faint white perspective grid stretches across the lower frame into a dark, star-flecked void. A computational substrate or the foundation on which a system is built. |
 | `hero/luminous_grid_2.jpg` | grid, foundation, perspective | A blue perspective grid recedes into black, dusted with glowing particles along its center. A clean computational-substrate / foundation visual. |
 | `hero/contact_sheet_1.jpg` | data, samples, observation | A flat grid of teal-tinted film frames, each a blurred indistinct image. Datasets, batches of samples, or many parallel observations. |
