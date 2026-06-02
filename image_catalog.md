@@ -1,0 +1,124 @@
+# Prime Intellect — Slide Image Catalog
+
+Curated, captioned image library for building Prime Intellect presentations. The
+imagery is dark, cinematic, and abstract — glowing point-clouds, luminous grids,
+satellite/alien terrain, compute infrastructure, and scientific instruments. Every
+image is **evocative and metaphorical**: it stands in for a concept (distributed
+training, scaling, emergence, recursion, signal, measurement, infrastructure)
+rather than depicting it literally.
+
+**How to use this file (for the skill):**
+- Match a slide's *concept* to the **Concept tags** / **Description** columns, then use the path in the **Image** column.
+- **`hero/`** images are wide, full-bleed — use for title slides, section dividers, and full-screen statement slides.
+- **`sides/`** images are portrait/square companions — use beside text on content slides.
+- When several numbered variants share a base name (e.g. `infinite_recursion_1/2/3`), they are interchangeable takes on the same concept; pick on composition.
+
+---
+
+## Hero images (wide / full-bleed)
+
+| Image | Concept tags | Description |
+|---|---|---|
+| `hero/server_cathedral.jpg` | infrastructure, compute, datacenter | Towering aisles of dark server racks recede into mist, with a vertical column of bright lights at the vanishing point. Monumental compute infrastructure / the "cathedral" scale of a training cluster. |
+| `hero/luminous_grid_1.jpg` | grid, foundation, scale | A faint white perspective grid stretches across the lower frame into a dark, star-flecked void. A computational substrate or the foundation on which a system is built. |
+| `hero/luminous_grid_2.jpg` | grid, foundation, perspective | A blue perspective grid recedes into black, dusted with glowing particles along its center. A clean computational-substrate / foundation visual. |
+| `hero/contact_sheet_1.jpg` | data, samples, observation | A flat grid of teal-tinted film frames, each a blurred indistinct image. Datasets, batches of samples, or many parallel observations. |
+| `hero/contact_sheet_2.jpg` | data, archive, samples | A sparse grid of dim monochrome film frames on black, most nearly empty. An archive, latent dataset, or sparse signal among many samples. |
+| `hero/monitor_wall.jpg` | networked, monitoring, scale | An angled wall of small glowing CRT screens fading into darkness, each showing different static-y footage. Distributed monitoring, or many models/nodes running at once. |
+| `hero/grid_breakdown.jpg` | alignment, instability, phase-change | A neat luminous floor grid dissolves upward into chaotic multicolored point-cloud turbulence with numeric gauges at right. Order breaking down, or a phase transition in training. |
+| `hero/luminous_aperture.jpg` | emergence, focus, threshold | A glowing rectangular tunnel of nested light hovers over dark reflective water. A portal, focal point, or a threshold being crossed. |
+| `hero/cosmic_web.jpg` | network, emergence, structure | A dark field laced with fine cyan filaments connecting bright nodes, resembling the cosmic web. A distributed network, connectome, or emergent global structure. |
+| `hero/dark_sea_lights.jpg` | distributed, network, signal | A vast dark ocean from above at night, threaded with sparse glittering points of light. A distributed network or scattered nodes across a wide field. |
+| `hero/accelerator_tunnel.jpg` | science, instrument, frontier | A hazy curving tunnel disappears into glowing fog, like a particle accelerator interior. Scientific instruments, frontier research, large-scale experiment. |
+| `hero/iridescent_sheen_1.jpg` | abstract, emergence, texture | Close-up of an oily, iridescent water surface with shifting blue-purple-gold reflections. Abstract texture for emergence, complexity, or signal in noise. |
+| `hero/iridescent_sheen_2.jpg` | abstract, spectrum, texture | An oil-slick water surface with a brighter rainbow sheen over dark depths. Abstract spectral texture for variance or emergent structure. |
+| `hero/spectral_terrain_1.jpg` | data, landscape, spectrum | A rainbow point-cloud mountain range plotted on a dark graph with faint axis ticks. A data landscape, loss surface, or spectral distribution. |
+| `hero/spectral_terrain_2.jpg` | data, landscape, peaks | A wireframe-like terrain of yellow/red/blue luminous points rising into sharp peaks on black. A loss landscape, scaling curve, or data topology. |
+| `hero/buried_facility_1.jpg` | infrastructure, satellite, hidden | Desaturated satellite view of a sprawling angular complex with faint diagonal lines and cyan glints. Hidden/declassified infrastructure or a large remote facility. |
+| `hero/buried_facility_2.jpg` | infrastructure, satellite, scale | Top-down satellite image of a sprawling gridded compound with pink-glowing cores in mountainous terrain. Massive remote infrastructure, a data campus, buildout at scale. |
+| `hero/data_static_1.jpg` | noise, data, signal | A dense pixel field of green-blue static with a brighter cloud of activation in the upper right. Raw data, noise, or signal emerging from static. |
+| `hero/data_static_2.jpg` | noise, data, gradient | A pixelated field gradating from dark to a bright green-blue dappled cluster. Data density, a gradient of activation, or signal concentration. |
+| `hero/particle_wave.jpg` | emergence, distributed, signal | A soft cresting wave of pale blue particles rises out of black with an upward spray. Emergence, a surge of signal, or distributed activity coalescing. |
+| `hero/first_light.jpg` | emergence, scaling, dawn | An arc of warm orange points glows like a horizon/dome against a black pixel field. "First light," a breakthrough, or the dawn of a capability. |
+| `hero/point_cloud_skyline.jpg` | point-cloud, emergence, structure | A green point-cloud rendering of a hazy skyline/terrain dissolving at the base. A reconstructed world, emergent structure from data. |
+| `hero/point_cloud_peak_1.jpg` | point-cloud, emergence, scaling | A faint green point-cloud peak rising from a dark scattered field. Emergence, a single rising signal, or a scaling peak. |
+| `hero/point_cloud_peak_2.jpg` | point-cloud, landscape, scaling | A teal point-cloud mountain with reddish flanks built from dense dots on black. A data/loss landscape or scaling topology. |
+| `hero/point_cloud_valley.jpg` | point-cloud, landscape, terrain | A wide teal-and-rust point-cloud terrain receding toward a distant ridge. A reconstructed landscape or expansive data field. |
+| `hero/signal_terrain.jpg` | signal, noise, data | A grainy high-contrast monochrome field of striated noise like a degraded aerial/sonar scan. Raw signal, transmission noise, or low-level data. |
+| `hero/sonar_readout_1.jpg` | signal, instrument, readout | An orange dot-matrix readout showing soft hills above a banded baseline, like a sonar/spectrogram trace. A scientific instrument readout or signal trace. |
+| `hero/sonar_readout_2.jpg` | signal, instrument, readout | An amber sonar/spectrogram trace: soft glowing ridges above and below a dark central band on a scanline texture. Signal measurement or detected structure. |
+| `hero/city_archipelago_1.jpg` | distributed, network, nodes | Sparse clusters of pale city-lights scattered like islands across a black aerial expanse. Distributed nodes, pooled regions, a decentralized network. |
+| `hero/city_archipelago_2.jpg` | distributed, network, lights | Brighter clusters of white settlement-lights strung across dark terrain from above. Distributed compute hubs or a connected archipelago of nodes. |
+| `hero/earth_from_orbit.jpg` | global, planetary, scale | The curved edge of Earth at night, coastlines glowing with city lights under deep blue. Planetary/global scale, worldwide reach, globally pooled resources. |
+| `hero/amber_grid_dunes.jpg` | landscape, grid, retro | Orange point-cloud dunes rise over a glowing wireframe floor grid against black, with scattered embers. A synthetic terrain or simulated world in warm retro tones. |
+| `hero/alien_terrain_1.jpg` | satellite, landscape, exploration | Solarized satellite image of rugged blue-violet alien terrain cut by dark channels. Exploration, mapping unknown territory, frontier landscapes. |
+| `hero/alien_terrain_2.jpg` | satellite, landscape, terrain | Muted aerial view of mountainous desert terrain in dusty purples and browns. A frontier/exploration backdrop or abstract earth-surface texture. |
+| `hero/alien_terrain_3.jpg` | satellite, landscape, frontier | Aerial satellite shot of an arid valley with mineral-blue deposits threading reddish ridges. Unmapped terrain, resource discovery, frontier exploration. |
+| `hero/glowing_riverbed.jpg` | signal, network, flow | A monochrome satellite landscape with a glowing cyan river/vein snaking diagonally through dark hills. Data flow, a signal pathway, a connected channel. |
+| `hero/dark_observatory.jpg` | science, instrument, observation | The dim interior of an observatory, a great telescope silhouetted under a shaft of light from an open dome. Scientific observation, seeking signal, frontier discovery. |
+| `hero/data_hall.jpg` | infrastructure, compute, scale | A vast dark hall whose ceiling and floor are studded with tiny colored lights receding to a vanishing point. A massive datacenter or compute hall to the horizon. |
+
+---
+
+## Side images (portrait / square — content-slide companions)
+
+| Image | Concept tags | Description |
+|---|---|---|
+| `sides/misty_datacenter.jpg` | infrastructure, datacenter, depth | A dark cavernous server hall filled with fog, a shaft of light glowing down a reflective aisle. The scale and mystery of physical compute infrastructure. |
+| `sides/server_aisle_1.jpg` | infrastructure, datacenter, scale | Symmetrical one-point perspective down an endless aisle of glittering server racks. Distributed compute infrastructure at scale. |
+| `sides/server_aisle_2.jpg` | infrastructure, datacenter, depth | A foggy server aisle with overhead lights converging to a bright vanishing point. Vast pooled compute and infrastructure depth. |
+| `sides/silicon_wafer.jpg` | silicon, hardware, fabrication | A circular silicon wafer rendered as a fine iridescent dotted point-field in shallow focus. Chip fabrication and the silicon substrate of compute. |
+| `sides/chip_cityscape.jpg` | silicon, microchip, architecture | A grayscale electron-micrograph of a microchip surface resembling a dense aerial city. Chip architecture and the city-like complexity of silicon. |
+| `sides/chip_micrograph.jpg` | silicon, microchip, microscopy | A grayscale SEM view of a microchip surface with circuit structures eroding into terrain. Microscopic hardware detail and fabrication. |
+| `sides/anodized_titanium.jpg` | material, hardware, detail | Iridescent purple-and-gold heat-discolored titanium with a circuit-like edge. An abstract material macro: hardware, heat, precision engineering. |
+| `sides/machined_metal_1.jpg` | precision, hardware, engineering | A macro of sharp interlocking dark metal edges with light glinting at the seam. Precision engineering and machined hardware. |
+| `sides/machined_metal_2.jpg` | precision, hardware, structure | Angular machined metal blocks interlocking with raking light across rough surfaces. Engineered structure and mechanical precision. |
+| `sides/machined_metal_3.jpg` | precision, lattice, structure | A close lattice of interlocking machined metal bars catching cool light. Structural rigor, frameworks, assembled architecture. |
+| `sides/glowing_ingots.jpg` | extraction, value, resource | Glowing golden block-like ingots embedded in dark rocky ground. Mined value, refined resources, or precious compute. |
+| `sides/monitor_wall_1.jpg` | monitoring, surveillance, scale | A curved wall of dozens of dim glowing CRT screens in a dark room. Monitoring dashboards, distributed observation, many parallel processes. |
+| `sides/instrument_panel_1.jpg` | measurement, instrument, telemetry | A dark cockpit/instrument panel with glowing multicolored gauges and a streaking light. Telemetry, measurement, live system readouts. |
+| `sides/instrument_panel_2.jpg` | measurement, monitoring, telemetry | A bank of glowing green and amber instrument screens under a shower of sparks. Control rooms, diagnostics, monitoring under load. |
+| `sides/control_bokeh.jpg` | telemetry, data, abstraction | Defocused rows of colored indicator lights receding into blur. A soft abstraction of dense system status and signal. |
+| `sides/code_terminal_1.jpg` | code, terminal, engineering | Multiple dim monitors showing colored code beside a bright blank screen in a dark room. The software and engineering side of training. |
+| `sides/code_terminal_2.jpg` | code, terminal, retro | Code-filled screens glowing beside a warm CRT monitor in a dim workspace. Hacking, software craft, the engineering workbench. |
+| `sides/code_terminal_3.jpg` | code, motion, signal | Motion-blurred streaks of multicolored code text across a dark screen. Flowing logs, fast output, live computation. |
+| `sides/code_terminal_4.jpg` | code, motion, energy | Blurred, swirling colored code filling the frame with a sense of speed. The velocity and density of running processes. |
+| `sides/data_horizon.jpg` | scale, data, emergence | A vast field of luminous green-white particle data sweeping toward a glowing horizon. Massive datasets and the scaling frontier. |
+| `sides/data_tunnel.jpg` | acceleration, data, motion | A blurred radial burst of green-white data points streaking outward from a bright core. Hyperspeed computation, data flow, acceleration. |
+| `sides/particle_valley.jpg` | terrain, scale, landscape | A glowing green particle-rendered valley/dune sweeping into darkness. A scanned virtual landscape: data terrain and scale. |
+| `sides/particle_dunes.jpg` | data, terrain, point-cloud | Rolling dune-like waves built from countless glowing gold-and-white points against black. Massive point-cloud data, a landscape of scale. |
+| `sides/spectral_nebula.jpg` | emergence, spectrum, cosmos | A diffuse iridescent cloud of fine points spread like a nebula against black. Thermal point-clouds, cosmic scale, emergent structure. |
+| `sides/particle_clusters.jpg` | clusters, distributed, nodes | Scattered glowing clusters of warm accent particles in a soft dark haze. Distributed nodes, clusters of compute, grouped agents. |
+| `sides/particle_clouds.jpg` | clouds, particles, atmosphere | Soft glowing white particle-clouds drifting across a dark field. Diffuse emergence, atmosphere, suspended data. |
+| `sides/luminous_cloud.jpg` | clouds, atmosphere, emergence | A billowing luminous cloud rising over a faintly reflective dark surface. Emergence, atmosphere, gathering signal or potential. |
+| `sides/luminous_ring_1.jpg` | emergence, energy, cycle | A bright ring of light and particles forming a glowing circle against black, like an accretion disk. Emergence, a singularity, or a training cycle. |
+| `sides/contained_glow.jpg` | containment, core, isolation | A single luminous point-cloud cube of light suspended and sealed in a dark void. A contained model, a core, or isolated energy. |
+| `sides/virtual_cell.jpg` | cell, organic-digital, emergence | An isolated white cloud-like cellular form floating on a dark green grid. A virtual cell, ambiguous organic/digital life, emergence. |
+| `sides/mycelial_network.jpg` | network, distributed, organic | A glowing web of branching bright filaments across dark organic terrain, like slime mold or city lights from orbit. Decentralized networks and emergent connectivity. |
+| `sides/ripple_interference.jpg` | interference, signal, waves | Concentric golden ripples interfering on a dark water surface. Wave interference, signal propagation, overlapping effects. |
+| `sides/microscopy_bloom_1.jpg` | microscopy, emergence, detail | A magnified luminous cluster of iridescent particles blooming out of darkness. Microscopy, fine structure, emergent detail at small scale. |
+| `sides/microscopy_bloom_2.jpg` | microscopy, cell, discovery | A circular microscope field showing a soft glowing nebulous structure. Scientific observation, cellular structure, discovery. |
+| `sides/electron_column.jpg` | instrument, beam, focus | A vertical beam of light glowing down a dark column onto a floor. An electron-microscope column: focused energy, precision measurement. |
+| `sides/observatory_telescope.jpg` | observation, instrument, cosmos | The silhouette of a great telescope inside a dark domed observatory with a glowing flare. Deep observation, frontier discovery, looking outward. |
+| `sides/spectral_columns.jpg` | spectrum, measurement, readout | Vertical bands of broken luminous light in white, gold, and red against black. A spectral readout, a measurement spectrum, column data. |
+| `sides/spectral_barcode.jpg` | spectrum, measurement, signal | Soft vertical bars of warm and cool light fading at the edges, like a blurred spectrum. Spectral analysis and measured signal. |
+| `sides/light_colonnade.jpg` | measurement, alignment, signal | A receding row of vertical colored light bars along a dark wall in perspective. Aligned, measured forms — benchmarks or a colonnade of signals. |
+| `sides/constellation_map.jpg` | mapping, blueprint, network | A dark navy field scattered with faint star-like points and crosshair axes. A vast system blueprint, a constellation map, a coordinate space. |
+| `sides/satellite_terrain.jpg` | satellite, terrain, earth | A false-color top-down satellite view of teal-and-orange terrain meeting dark water. Earth-scale sensing, geography, globally distributed presence. |
+| `sides/grid_breakdown_1.jpg` | breakdown, chaos, instability | A luminous grid dissolving into a chaotic blur of streaked white particles. Order breaking down, instability, a phase transition. |
+| `sides/grid_breakdown_2.jpg` | grid, anomaly, perspective | A dark receding tiled grid glowing along its lines with a faint cloud disrupting one area. Structured space with an emerging anomaly or fault. |
+| `sides/infinite_recursion_1.jpg` | recursion, infinity, perspective | Nested glowing rectangular frames tunneling inward to a bright center. The classic infinite-recursion / Droste metaphor for self-reference and depth. |
+| `sides/infinite_recursion_2.jpg` | recursion, infinity, architecture | Concentric dark doorways receding into a luminous core, flanked by two flares. Endless recursion, layered systems, depth. |
+| `sides/infinite_recursion_3.jpg` | recursion, geometry, light | Stacked square frames shrinking into a glowing point against black. A minimal infinite-recursion motif for nested computation. |
+| `sides/recursion_hall.jpg` | recursion, depth, repetition | A dim wet-walled hall receding to a glowing vanishing point with mirrored reflections. Recursive depth and self-similar structure. |
+| `sides/nested_corridor.jpg` | recursion, corridor, depth | A textured corridor of nested glowing rectangular openings receding into brightness. Recursion, layered architecture, a path inward. |
+| `sides/glowing_doorway.jpg` | threshold, portal, emergence | A single glowing rectangular doorway opening onto a soft iridescent light. A threshold, gateway, or emergence into the unknown. |
+| `sides/glass_chambers.jpg` | containment, structure, transparency | Translucent blue glowing glass cubes in a dark room, one tunneling into depth. Nested containers, modular architecture, transparency. |
+| `sides/vertical_megacity.jpg` | recursion, scale, density | A dizzying top-down view down an immense densely-built vertical city. Infinite recursion, overwhelming scale, architectural density. |
+| `sides/glass_lab_1.jpg` | research, lab, clean | View through a glass wall into a clean, orderly industrial lab corridor lit cool. Scientific rigor and research infrastructure. |
+| `sides/glass_lab_2.jpg` | research, lab, reflection | A warm-lit lab interior seen through layered glass, reflections smearing the depth. Experimentation and the layered complexity of a research facility. |
+| `sides/contact_sheet_1.jpg` | grid, dataset, samples | A grid of small backlit film frames in muted greens, like a contact sheet. A dataset, batches of samples, or a model's many outputs. |
+| `sides/contact_sheet_2.jpg` | grid, dataset, signal | A larger grid of small dark frames each holding faint blue glimmers against black. A catalogued dataset or sparse signal across many cells. |
+| `sides/valley_window_1.jpg` | perspective, nature, contemplation | A misty green mountain valley with a river seen through a tall glass-walled frame. Contemplation, vast natural scale, a window onto the world. |
+| `sides/valley_window_2.jpg` | perspective, nature, calm | A foggy gorge at dawn viewed between vertical glass mullions over still water. A serene threshold and the long view forward. |
+| `sides/valley_portal.jpg` | portal, nature, threshold | A glowing rectangular portal framing a misty valley reflected in dark water. A gateway from the digital into the natural, a calm threshold. |
