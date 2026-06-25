@@ -13,7 +13,7 @@ rather than depicting it literally.
 https://raw.githubusercontent.com/impec27/prime-visual-graphics/main/
 ```
 
-e.g. `hero/server_cathedral.jpg` → `https://raw.githubusercontent.com/impec27/prime-visual-graphics/main/hero/server_cathedral.jpg`
+e.g. `hero/cosmic_web.jpg` → `https://raw.githubusercontent.com/impec27/prime-visual-graphics/main/hero/cosmic_web.jpg`
 
 **How to use this file (for the skill):**
 - Match a slide's *concept* to the **Concept tags** / **Description** columns, then use the path in the **Image** column.
@@ -64,6 +64,18 @@ e.g. `hero/server_cathedral.jpg` → `https://raw.githubusercontent.com/impec27/
 | `hero/glowing_riverbed.jpg` | signal, network, flow | A monochrome satellite landscape with a glowing cyan river/vein snaking diagonally through dark hills. Data flow, a signal pathway, a connected channel. |
 | `hero/dark_observatory.jpg` | science, instrument, observation | The dim interior of an observatory, a great telescope silhouetted under a shaft of light from an open dome. Scientific observation, seeking signal, frontier discovery. |
 | `hero/data_hall.jpg` | infrastructure, compute, scale | A vast dark hall whose ceiling and floor are studded with tiny colored lights receding to a vanishing point. A massive datacenter or compute hall to the horizon. |
+| `hero/server_horizon.jpg` | infrastructure, compute, scale | A vast dark hall of server racks studded with countless tiny lights, receding between columns to the horizon. Hyperscale compute infrastructure stretching to the vanishing point. |
+| `hero/emergent_colossus.jpg` | emergence, scale, point-cloud | A colossal form barely resolves from a swarm of pale particles rising off a faint glowing trail into darkness. Emergence at scale — a vast structure coalescing from many small parts. |
+| `hero/aperture_hall.jpg` | threshold, emergence, depth | A dark hall with a series of glowing rectangular doorways receding, the nearest a soft pink-white aperture. Nested thresholds, a path through gateways, emergence into light. |
+| `hero/nocturnal_sea.jpg` | planetary, scale, signal | A vast dark sea seen from high above at night, a pale shaft of light grazing across faint cloud and water. Planetary scale, the edge of night, signal breaking over a wide field. |
+| `hero/accelerator_tunnel_2.jpg` | science, instrument, frontier | A dark curving tunnel arcs toward a bright horizon line of light, a dashed row of lamps along its rim. A particle-accelerator interior — frontier-scale instruments and experiment. |
+| `hero/grid_breakdown_2.jpg` | instability, phase-change, alignment | A regular luminous grid pierced by a bright billowing cloud of turbulence breaking through its center. Order dissolving into chaos, a phase transition, instability in a structured system. |
+| `hero/fluorescence_network.jpg` | microscopy, network, organic | A green fluorescence-microscopy field of glowing tagged cells linked by faint filaments against black. Biological networks, tagged structure, emergent connectivity at microscopic scale. |
+| `hero/glass_monoliths.jpg` | structure, containment, recursion | Tall translucent glass slabs stand in a dark misty hall, soft shafts of light falling between them. Monolithic structures, layered architecture, contained light. |
+| `hero/aligned_ranks.jpg` | measurement, alignment, benchmark | A receding row of soft luminous rectangular forms reflected on a dark wet floor, fading into haze. Aligned and measured units — benchmarks, ranked results, ordered evaluation. |
+| `hero/chip_metropolis.jpg` | silicon, microchip, architecture | A grayscale scanning-electron-micrograph of a microchip surface, blocks and structures massed like a dense aerial city around one large plateau. Silicon architecture at city scale. |
+| `hero/chip_expanse.jpg` | silicon, microchip, scale | A wide grayscale SEM of an expansive microchip terrain, fragmented blocks scattered around a bright eroded clearing. A vast silicon landscape, fabrication detail at scale. |
+| `hero/sonar_readout_3.jpg` | signal, instrument, readout | A grainy green sonar/spectrogram scan: a soft luminous mound rising from a scanline-textured field of noise. Detected structure in signal, measurement, emergence from static. |
 
 ---
 
@@ -129,3 +141,15 @@ e.g. `hero/server_cathedral.jpg` → `https://raw.githubusercontent.com/impec27/
 | `sides/valley_window_1.jpg` | perspective, nature, contemplation | A misty green mountain valley with a river seen through a tall glass-walled frame. Contemplation, vast natural scale, a window onto the world. |
 | `sides/valley_window_2.jpg` | perspective, nature, calm | A foggy gorge at dawn viewed between vertical glass mullions over still water. A serene threshold and the long view forward. |
 | `sides/valley_portal.jpg` | portal, nature, threshold | A glowing rectangular portal framing a misty valley reflected in dark water. A gateway from the digital into the natural, a calm threshold. |
+| `sides/server_aisle_3.jpg` | infrastructure, datacenter, scale | A symmetrical perspective down a dark server aisle, overhead rows of lights converging to a vanishing point amid drifting sparks. Vast pooled compute, infrastructure depth. |
+| `sides/volumetric_cloud.jpg` | clouds, emergence, atmosphere | A band of glowing volumetric cloud suspended in a dark reflective chamber. Diffuse emergence, suspended data, atmosphere gathering in a contained space. |
+| `sides/bounding_box.jpg` | containment, point-cloud, emergence | A soft luminous point-cloud burst suspended inside a faint wireframe bounding box against black. A contained model, a bounded latent space, emergence held in a frame. |
+| `sides/luminous_grid_panel.jpg` | grid, foundation, order | A softly glowing square grid panel mounted on a dark wall above a concrete floor. An orderly computational substrate, a lit lattice, a structured foundation. |
+| `sides/grid_breakdown_3.jpg` | breakdown, instability, phase-change | A dark perspective grid torn by a chaotic streak of bright white particles erupting across it. Order breaking down, instability, a phase transition in a structured field. |
+| `sides/floating_cubes.jpg` | containment, modular, structure | Translucent glass cubes float at varying depths in a dark void, edges catching streaks of light. Modular containers, nested structure, suspended architecture. |
+| `sides/mirror_corridor.jpg` | recursion, depth, reflection | A corridor of tall mirrored glass planes receding into darkness, glints of light multiplying in the reflections. Recursive depth, self-similar structure, layered reflection. |
+| `sides/luminous_ring_2.jpg` | cycle, orbit, energy | Bright concentric loops of motion-blurred light orbiting a dark center like time-lapse trails. Cycles, orbits, a training loop, accumulated motion. |
+| `sides/orbital_ring.jpg` | planetary, network, scale | An orbital night view of a planet's surface ablaze with city lights, crossed by a vast luminous ring. Planetary-scale networks, global infrastructure, worldwide reach. |
+| `sides/scaffold_tower.jpg` | construction, buildout, infrastructure | Looking up through a tall scaffold of bare metal framework around a structure under construction against a pale sky. Buildout in progress, infrastructure under construction, scaling up. |
+| `sides/butterfly_flight_1.jpg` | emergence, transformation, motion | A monarch butterfly caught mid-flight in slow-shutter blur at dusk above a faint bloom. Motion, transformation, the PI butterfly as living signal. |
+| `sides/butterfly_flight_2.jpg` | emergence, transformation, nature | A butterfly in slow-shutter flight at dusk over a field of glowing purple wildflowers. Emergence, transformation, motion through a technological dusk. |
